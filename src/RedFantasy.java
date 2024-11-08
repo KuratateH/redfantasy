@@ -93,6 +93,7 @@ public class RedFantasy {
         }else{
             this.playerBonusPoint = d1;
         }
+        //dddd
         int d2 = this.rnd.nextInt(6)+1; //1~6のサイコロを振る
         System.out.println("CPU's Dice'：" + d2);
         if(d2 == 1){
